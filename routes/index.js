@@ -5,4 +5,4 @@ const student = require('./studentRoute')
 
 router.use('/students',student)
 
-module.exports = router
+module.exports = router;
